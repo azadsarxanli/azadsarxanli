@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end developing
 - 🌱 I’m currently learning Front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me azad.sarxanli@gmai..com
+- 📫 How to reach me azad.sarxanli@gmail.com
 
 <!---
 azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
