@@ -40,7 +40,18 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadsarxanli)](https://github.com/azadsarxanli/github-readme-stats)
+### Github statistics:
+
+![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadsarxanli&show_icons=true&theme=radical)
+
+---
+
+<br/>
+<br/>
+
+### Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadsarxanli&layout=compact)](https://github.com/azadsarxanli/github-readme-stats)
 
 ---
 
