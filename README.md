@@ -101,6 +101,3 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/azadsarxanli
 [instagram]: https://instagram.com/azadsarxanli
 [linkedin]: https://linkedin.com/in/azadsarxanli
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
