@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front-end
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **azad.sarxanli@gmail.com**
-  <img align='right' width="200px" height="200px" src="https://media0.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b76116ec9195b32307e054e4d5bd6bb3e0f57673370ec&rid=giphy.gif&ct=s" height="175px"/>
+  <img align='right' width="200px" height="200px" src="https://camo.githubusercontent.com/02d6bde18de02ae825ae1114a663ff0d08ae007d3d6e652734394f320975cf4e/68747470733a2f2f7777772e686f706b696e732e6b797363686f6f6c732e75732f636d732f6c69622f4b5930323230343232332f43656e747269636974792f446f6d61696e2f3537302f626c75655f626f795f747970696e675f6e6f74686f756768742e676966" height="175px"/>
 
 <!---
 azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -93,8 +93,6 @@ You can click the Preview link to take a look at your changes.
 ### Contribution Graph
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=azadsarxanli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
 
 [github]: https://github.com/azadsarxanli
 [twitter]: https://twitter.com/azadsarxanli
