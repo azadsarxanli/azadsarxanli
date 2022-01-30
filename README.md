@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![azad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadsarxanli&theme=radical)](https://github.com/azadsarxanli/github-readme-stats)
+[![azad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadsarxanli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/azadsarxanli
 [twitter]: https://twitter.com/azadsarxanli
