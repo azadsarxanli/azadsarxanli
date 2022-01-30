@@ -52,7 +52,8 @@ You can click the Preview link to take a look at your changes.
 ### Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadsarxanli&layout=compact&theme=radical)](https://github.com/azadsarxanli/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadsarxanli&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadsarxanli&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
