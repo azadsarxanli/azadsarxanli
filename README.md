@@ -88,7 +88,9 @@ You can click the Preview link to take a look at your changes.
 
 [![azad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadsarxanli&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
---- Contribution Graph
+---
+
+### Contribution Graph
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=azadsarxanli&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
