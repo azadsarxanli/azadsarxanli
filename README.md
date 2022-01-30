@@ -1,8 +1,8 @@
-- 👋 Hi, I’m azadsarxanli[github]
+- 👋 Hi, I’m [azadsarxanli][github]
 - 👀 I’m interested in Front-end developing
 - 🌱 I’m currently learning Front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me azad.sarxanli@gmail.com[mail]
+- 📫 How to reach me azad.sarxanli@gmail.com
 
 <!---
 azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
