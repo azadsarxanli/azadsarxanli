@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Azadsarxanli][github]</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Azad Sarxanli</h1>
 
 - 👀 I’m interested in **_Front-end_** developing
 - 🌱 I’m currently learning Front-end
@@ -60,13 +60,15 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
+
 ---
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/azadsarxanli/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Azad Sarxanli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azadsarxanli&theme=radical&hide_border=true"/>
     </a>
 </p>
+
 ### Github statistics:
 
 ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadsarxanli&show_icons=true&theme=radical)
