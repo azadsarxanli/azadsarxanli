@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front-end
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **azad.sarxanli@gmail.com**
-  <img align='right' width="200px" height="200px" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966" height="175px"/>
+  <img align='right' width="200px" height="200px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470sjpjor9ny374bfbs1sp2syl0ht20cqia95hf19q&rid=giphy.gif&ct=g" height="175px"/>
 
 <!---
 azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
