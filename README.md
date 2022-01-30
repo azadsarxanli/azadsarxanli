@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Azad Sarxanli</h1>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/azadsarxanli" data-color-scheme="no-preference: light; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" data-show-count="true" aria-label="Follow @azadsarxanli on GitHub">Follow @azadsarxanli</a>
 
 - 👀 I’m interested in **_Front-end_** developing
 - 🌱 I’m currently learning Front-end
