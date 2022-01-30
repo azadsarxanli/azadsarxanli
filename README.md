@@ -93,6 +93,7 @@ You can click the Preview link to take a look at your changes.
 ### Contribution Graph
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=azadsarxanli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
 
 [github]: https://github.com/azadsarxanli
 [twitter]: https://twitter.com/azadsarxanli
