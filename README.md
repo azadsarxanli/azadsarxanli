@@ -88,11 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![azad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadsarxanli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Azad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadsarxanli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+## [![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://wakatime.com/@68948e79-2670-4613-90ce-130ddc9848dd)
 
 ### Contribution Graph
 
