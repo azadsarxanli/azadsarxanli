@@ -94,8 +94,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Contribution Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=azadsarxanli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Azad's github activity graph](https://activity-graph.herokuapp.com/graph?username=azadsarxanli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
+
+### Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=azadsarxanli&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 [github]: https://github.com/azadsarxanli
 [twitter]: https://twitter.com/azadsarxanli
