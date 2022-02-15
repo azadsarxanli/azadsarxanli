@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=azadsarxanli&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=azadsarxanli&theme=radical)](https://github.com/azadsarxanli)
 
 [github]: https://github.com/azadsarxanli
 [twitter]: https://twitter.com/azadsarxanli
