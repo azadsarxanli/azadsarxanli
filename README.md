@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 ## [![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://wakatime.com/@68948e79-2670-4613-90ce-130ddc9848dd)
 ![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
 
-### Connect with me:
 <details>
 <summary><h1>Connect with me</h1></summary>
 <a href="https://www.twitter.com/azadsarxanli" target="_blank">
