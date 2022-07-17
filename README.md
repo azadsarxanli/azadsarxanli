@@ -12,6 +12,8 @@
 azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://www.codewars.com/users/azadsarxanli/badges/large)
+
 
 ## [![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://wakatime.com/@68948e79-2670-4613-90ce-130ddc9848dd)
 ![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
