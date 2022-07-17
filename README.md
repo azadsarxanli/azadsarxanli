@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p> 
-<img src="https://www.codewars.com/users/azadsarxanli/badges/large" alt="azad-badge" />
+<img src="https://www.codewars.com/users/azadsarxanli/badges/small" alt="azad-badge" />
   </p>
 
 ![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
