@@ -1,16 +1,6 @@
 <h1 align="center">Hello, There!</h1>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/azadsarxanli" data-color-scheme="no-preference: light; light: dark_high_contrast; dark: dark_dimmed;" data-size="large" data-show-count="true" aria-label="Follow @azadsarxanli on GitHub">Follow @azadsarxanli</a>
 
-
-  <!-- <img align='right' width="200px" height="200px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470sjpjor9ny374bfbs1sp2syl0ht20cqia95hf19q&rid=giphy.gif&ct=g" height="175px"/> -->
-
-<!---
-azadsarxanli/azadsarxanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://wakatime.com/@68948e79-2670-4613-90ce-130ddc9848dd)
-<br/>
 <br/>
 
   <p> 
