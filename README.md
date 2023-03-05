@@ -3,11 +3,11 @@
 [![wakatime](https://wakatime.com/badge/user/68948e79-2670-4613-90ce-130ddc9848dd.svg)](https://wakatime.com/@68948e79-2670-4613-90ce-130ddc9848dd)
 <br/>
 
-  <p> 
+<!--   <p> 
     <img src="https://www.codewars.com/users/azadsarxanli/badges/small" alt="azad-badge" />
-  </p>
+  </p> -->
 
-![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=azadsarxanli&color=blueviolet) -->
 
 
 
